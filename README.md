@@ -1,6 +1,6 @@
-# Projekt: Profil
+# Řešení: Profil
 
-Cvičný projekt pro kurz Staň se kóderkou od Czechitas.
+*Řešení cvičného projektu pro kurz Staň se kóderkou od Czechitas.*
 
 ## Postup
 
